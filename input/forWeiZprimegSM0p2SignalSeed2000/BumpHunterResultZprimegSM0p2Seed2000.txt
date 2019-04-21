@@ -1,0 +1,119 @@
+Signal: Zprime1p5gSM0p2, NEvents: 102027
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+Absolute values of LogL: 592.917
+Absolute values of Chi2: 143.714
+Absolute values of BumpHUnter: 70.6842
+Pval of logL: 0
+Pval of chi2: 0
+Pval of bumpHunter are: 0
+BumpHunter results: stat = 70.6842
+******************************************
+*** Final values 
+*** BH p-value = 0
+*** BH test statistic value = 70.6842
+*** Selected most discrepant range = 1416 - 1533
+******************************************
+Process ran in 63.35 seconds. 
+Signal: Zprime2p0gSM0p2, NEvents: 25384
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+Absolute values of LogL: 515.158
+Absolute values of Chi2: 62.0163
+Absolute values of BumpHUnter: 20.5759
+Pval of logL: 0.011
+Pval of chi2: 0.016
+Pval of bumpHunter are: 0
+BumpHunter results: stat = 20.5759
+******************************************
+*** Final values 
+*** BH p-value = 0
+*** BH test statistic value = 20.5759
+*** Selected most discrepant range = 1875 - 2065
+******************************************
+Process ran in 64.21 seconds. 
+Signal: Zprime2p5gSM0p2, NEvents: 7400
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+Absolute values of LogL: 504.523
+Absolute values of Chi2: 53.5613
+Absolute values of BumpHUnter: 12.765
+Pval of logL: 0.089
+Pval of chi2: 0.11
+Pval of bumpHunter are: 0.001
+BumpHunter results: stat = 12.765
+******************************************
+*** Final values 
+*** BH p-value = 0.001
+*** BH test statistic value = 12.765
+*** Selected most discrepant range = 2267 - 2600
+******************************************
+Process ran in 62.95 seconds. 
+Signal: Zprime3p0gSM0p2, NEvents: 2389
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+Absolute values of LogL: 492.45
+Absolute values of Chi2: 43.7727
+Absolute values of BumpHUnter: 3.78256
+Pval of logL: 0.631
+Pval of chi2: 0.554
+Pval of bumpHunter are: 0.896
+BumpHunter results: stat = 3.78256
+******************************************
+*** Final values 
+*** BH p-value = 0.896
+*** BH test statistic value = 3.78256
+*** Selected most discrepant range = 4239 - 4595
+******************************************
+Process ran in 62.65 seconds. 
+Signal: Zprime3p5gSM0p2, NEvents: 826
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+Absolute values of LogL: 495.103
+Absolute values of Chi2: 50.0801
+Absolute values of BumpHUnter: 4.80825
+Pval of logL: 0.346
+Pval of chi2: 0.214
+Pval of bumpHunter are: 0.664
+BumpHunter results: stat = 4.80825
+******************************************
+*** Final values 
+*** BH p-value = 0.664
+*** BH test statistic value = 4.80825
+*** Selected most discrepant range = 3100 - 3235
+******************************************
+Process ran in 63.1 seconds. 
+Signal: Zprime4p0gSM0p2, NEvents: 306
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+Absolute values of LogL: 486.23
+Absolute values of Chi2: 34.6475
+Absolute values of BumpHUnter: 4.73951
+Pval of logL: 0.934
+Pval of chi2: 0.931
+Pval of bumpHunter are: 0.67
+BumpHunter results: stat = 4.73951
+******************************************
+*** Final values 
+*** BH p-value = 0.67
+*** BH test statistic value = 4.73951
+*** Selected most discrepant range = 3827 - 3988
+******************************************
+Process ran in 62.24 seconds. 
+Signal: Zprime5p0gSM0p2, NEvents: 51
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+Absolute values of LogL: 488.376
+Absolute values of Chi2: 36.0866
+Absolute values of BumpHUnter: 4.57505
+Pval of logL: 0.897
+Pval of chi2: 0.922
+Pval of bumpHunter are: 0.755
+BumpHunter results: stat = 4.57505
+******************************************
+*** Final values 
+*** BH p-value = 0.755
+*** BH test statistic value = 4.57505
+*** Selected most discrepant range = 1305 - 1378
+******************************************
+Process ran in 62.72 seconds. 

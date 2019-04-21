@@ -1,0 +1,38 @@
+mbj
+Will bump hunt the spectrum in bins [9 - 81]
+	corresponding to a range [1200 - 6165]
+BumpHunter results: stat = 6.77753
+Low edge, high edge of bump: 5074 5277
+Absolute values of LogL: 365.567
+Absolute values of Chi2: 41.9779
+Absolute values of BumpHUnter: 6.77753
+Pval of logL: 0.175
+Pval of chi2: 0.151
+Pval of bumpHunter are: 0.159
+BumpHunter results: stat = 6.77753
+******************************************
+*** Final values 
+*** BH p-value = 0.159
+*** BH test statistic value = 6.77753
+*** Selected most discrepant range = 5074 - 5277
+******************************************
+Process ran in 19.63 seconds. 
+mbb
+Will bump hunt the spectrum in bins [9 - 64]
+	corresponding to a range [1200 - 4414]
+BumpHunter results: stat = 3.16029
+Low edge, high edge of bump: 2374 2485
+Absolute values of LogL: 221.479
+Absolute values of Chi2: 28.3067
+Absolute values of BumpHUnter: 3.16029
+Pval of logL: 0.416
+Pval of chi2: 0.395
+Pval of bumpHunter are: 0.929
+BumpHunter results: stat = 3.16029
+******************************************
+*** Final values 
+*** BH p-value = 0.929
+*** BH test statistic value = 3.16029
+*** Selected most discrepant range = 2374 - 2485
+******************************************
+Process ran in 7.6 seconds. 

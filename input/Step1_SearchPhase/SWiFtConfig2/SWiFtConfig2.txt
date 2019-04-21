@@ -1,0 +1,10 @@
+# SWIFT
+doSwift                 true
+swift_minXAvailable     1100
+swift_maxXAvailable     8437
+swift_nBinsLeft  24
+swift_nBinsRight  24
+swift_fixLow  false
+swift_fixHigh  true
+swift_truncateHigh    true
+# The first sliding window size is 24, the last sliding window size is 48.

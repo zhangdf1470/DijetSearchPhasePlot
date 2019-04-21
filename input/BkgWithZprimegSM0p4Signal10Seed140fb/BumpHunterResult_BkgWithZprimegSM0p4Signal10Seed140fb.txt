@@ -1,0 +1,760 @@
+ZprimemR4p0_gSM0p4_1355events_seed10:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 3.13435
+Low edge, high edge of bump: 3305 3521
+Absolute values of LogL: 500.209
+Absolute values of Chi2: 40.8421
+Absolute values of BumpHUnter: 3.13435
+Pval of logL: 0.655
+Pval of chi2: 0.714
+Pval of bumpHunter are: 0.988
+BumpHunter results: stat = 3.13435
+******************************************
+*** Final values 
+*** BH p-value = 0.988
+*** BH test statistic value = 3.13435
+*** Selected most discrepant range = 3305 - 3521
+******************************************
+Process ran in 66.69 seconds. 
+ZprimemR5p0_gSM0p4_186events_seed10:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 5.85599
+Low edge, high edge of bump: 4504 5074
+Absolute values of LogL: 505.503
+Absolute values of Chi2: 46.1418
+Absolute values of BumpHUnter: 5.85599
+Pval of logL: 0.348
+Pval of chi2: 0.404
+Pval of bumpHunter are: 0.381
+BumpHunter results: stat = 5.85599
+******************************************
+*** Final values 
+*** BH p-value = 0.381
+*** BH test statistic value = 5.85599
+*** Selected most discrepant range = 4504 - 5074
+******************************************
+Process ran in 66.61 seconds. 
+ZprimemR6p0_gSM0p4_24events_seed10:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 4.4304
+Low edge, high edge of bump: 4504 5074
+Absolute values of LogL: 503.387
+Absolute values of Chi2: 44.6179
+Absolute values of BumpHUnter: 4.4304
+Pval of logL: 0.47
+Pval of chi2: 0.503
+Pval of bumpHunter are: 0.761
+BumpHunter results: stat = 4.4304
+******************************************
+*** Final values 
+*** BH p-value = 0.761
+*** BH test statistic value = 4.4304
+*** Selected most discrepant range = 4504 - 5074
+******************************************
+Process ran in 64.5 seconds. 
+ZprimemR7p0_gSM0p4_3events_seed10:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 4.47069
+Low edge, high edge of bump: 4504 5074
+Absolute values of LogL: 502.844
+Absolute values of Chi2: 44.2494
+Absolute values of BumpHUnter: 4.47069
+Pval of logL: 0.497
+Pval of chi2: 0.538
+Pval of bumpHunter are: 0.776
+BumpHunter results: stat = 4.47069
+******************************************
+*** Final values 
+*** BH p-value = 0.776
+*** BH test statistic value = 4.47069
+*** Selected most discrepant range = 4504 - 5074
+******************************************
+Process ran in 68.39 seconds. 
+ZprimemR4p0_gSM0p4_1355events_seed50:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 3.34747
+Low edge, high edge of bump: 1416 1533
+Absolute values of LogL: 493.314
+Absolute values of Chi2: 37.3694
+Absolute values of BumpHUnter: 3.34747
+Pval of logL: 0.877
+Pval of chi2: 0.853
+Pval of bumpHunter are: 0.976
+BumpHunter results: stat = 3.34747
+******************************************
+*** Final values 
+*** BH p-value = 0.976
+*** BH test statistic value = 3.34747
+*** Selected most discrepant range = 1416 - 1533
+******************************************
+Process ran in 63.36 seconds. 
+ZprimemR5p0_gSM0p4_186events_seed50:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 4.98415
+Low edge, high edge of bump: 4688 4878
+Absolute values of LogL: 493.815
+Absolute values of Chi2: 38.225
+Absolute values of BumpHUnter: 4.98415
+Pval of logL: 0.873
+Pval of chi2: 0.821
+Pval of bumpHunter are: 0.634
+BumpHunter results: stat = 4.98415
+******************************************
+*** Final values 
+*** BH p-value = 0.634
+*** BH test statistic value = 4.98415
+*** Selected most discrepant range = 4688 - 4878
+******************************************
+Process ran in 66.51 seconds. 
+ZprimemR6p0_gSM0p4_24events_seed50:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 3.56272
+Low edge, high edge of bump: 4688 4878
+Absolute values of LogL: 493.52
+Absolute values of Chi2: 37.745
+Absolute values of BumpHUnter: 3.56272
+Pval of logL: 0.876
+Pval of chi2: 0.838
+Pval of bumpHunter are: 0.962
+BumpHunter results: stat = 3.56272
+******************************************
+*** Final values 
+*** BH p-value = 0.962
+*** BH test statistic value = 3.56272
+*** Selected most discrepant range = 4688 - 4878
+******************************************
+Process ran in 68.77 seconds. 
+ZprimemR7p0_gSM0p4_3events_seed50:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 3.65378
+Low edge, high edge of bump: 4688 4878
+Absolute values of LogL: 493.668
+Absolute values of Chi2: 37.9094
+Absolute values of BumpHUnter: 3.65378
+Pval of logL: 0.872
+Pval of chi2: 0.846
+Pval of bumpHunter are: 0.94
+BumpHunter results: stat = 3.65378
+******************************************
+*** Final values 
+*** BH p-value = 0.94
+*** BH test statistic value = 3.65378
+*** Selected most discrepant range = 4688 - 4878
+******************************************
+Process ran in 67.74 seconds. 
+ZprimemR4p0_gSM0p4_1355events_seed100:
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 5.09568
+Low edge, high edge of bump: 4688 4878
+Absolute values of LogL: 504.757
+Absolute values of Chi2: 46.7051
+Absolute values of BumpHUnter: 5.09568
+Pval of logL: 0.45
+Pval of chi2: 0.403
+Pval of bumpHunter are: 0.597
+BumpHunter results: stat = 5.09568
+******************************************
+*** Final values 
+*** BH p-value = 0.597
+*** BH test statistic value = 5.09568
+*** Selected most discrepant range = 4688 - 4878
+******************************************
+Process ran in 67.85 seconds. 
+ZprimemR5p0_gSM0p4_186events_seed100:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 7.75821
+Low edge, high edge of bump: 4688 4878
+Absolute values of LogL: 507.755
+Absolute values of Chi2: 47.8976
+Absolute values of BumpHUnter: 7.75821
+Pval of logL: 0.286
+Pval of chi2: 0.337
+Pval of bumpHunter are: 0.102
+BumpHunter results: stat = 7.75821
+******************************************
+*** Final values 
+*** BH p-value = 0.102
+*** BH test statistic value = 7.75821
+*** Selected most discrepant range = 4688 - 4878
+******************************************
+Process ran in 67.91 seconds. 
+ZprimemR6p0_gSM0p4_24events_seed100:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 6.36338
+Low edge, high edge of bump: 4688 4878
+Absolute values of LogL: 507.369
+Absolute values of Chi2: 47.6432
+Absolute values of BumpHUnter: 6.36338
+Pval of logL: 0.286
+Pval of chi2: 0.328
+Pval of bumpHunter are: 0.265
+BumpHunter results: stat = 6.36338
+******************************************
+*** Final values 
+*** BH p-value = 0.265
+*** BH test statistic value = 6.36338
+*** Selected most discrepant range = 4688 - 4878
+******************************************
+Process ran in 68.29 seconds. 
+ZprimemR7p0_gSM0p4_3events_seed100:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 6.43855
+Low edge, high edge of bump: 4688 4878
+Absolute values of LogL: 507.38
+Absolute values of Chi2: 47.7877
+Absolute values of BumpHUnter: 6.43855
+Pval of logL: 0.295
+Pval of chi2: 0.344
+Pval of bumpHunter are: 0.251
+BumpHunter results: stat = 6.43855
+******************************************
+*** Final values 
+*** BH p-value = 0.251
+*** BH test statistic value = 6.43855
+*** Selected most discrepant range = 4688 - 4878
+******************************************
+Process ran in 67.01 seconds. 
+ZprimemR4p0_gSM0p4_1355events_seed500:
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 4.51214
+Low edge, high edge of bump: 3100 3305
+Absolute values of LogL: 499.803
+Absolute values of Chi2: 43.0576
+Absolute values of BumpHUnter: 4.51214
+Pval of logL: 0.56
+Pval of chi2: 0.582
+Pval of bumpHunter are: 0.741
+BumpHunter results: stat = 4.51214
+******************************************
+*** Final values 
+*** BH p-value = 0.741
+*** BH test statistic value = 4.51214
+*** Selected most discrepant range = 3100 - 3305
+******************************************
+Process ran in 67.18 seconds. 
+ZprimemR5p0_gSM0p4_186events_seed500:
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 5.96081
+Low edge, high edge of bump: 3100 3305
+Absolute values of LogL: 504.465
+Absolute values of Chi2: 47.4166
+Absolute values of BumpHUnter: 5.96081
+Pval of logL: 0.307
+Pval of chi2: 0.354
+Pval of bumpHunter are: 0.381
+BumpHunter results: stat = 5.96081
+******************************************
+*** Final values 
+*** BH p-value = 0.381
+*** BH test statistic value = 5.96081
+*** Selected most discrepant range = 3100 - 3305
+******************************************
+Process ran in 66.63 seconds. 
+ZprimemR6p0_gSM0p4_24events_seed500:
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 5.90872
+Low edge, high edge of bump: 3100 3305
+Absolute values of LogL: 503.526
+Absolute values of Chi2: 47.3234
+Absolute values of BumpHUnter: 5.90872
+Pval of logL: 0.309
+Pval of chi2: 0.33
+Pval of bumpHunter are: 0.372
+BumpHunter results: stat = 5.90872
+******************************************
+*** Final values 
+*** BH p-value = 0.372
+*** BH test statistic value = 5.90872
+*** Selected most discrepant range = 3100 - 3305
+******************************************
+Process ran in 65.96 seconds. 
+ZprimemR7p0_gSM0p4_3events_seed500:
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 5.88021
+Low edge, high edge of bump: 3100 3305
+Absolute values of LogL: 502.322
+Absolute values of Chi2: 45.7639
+Absolute values of BumpHUnter: 5.88021
+Pval of logL: 0.406
+Pval of chi2: 0.441
+Pval of bumpHunter are: 0.346
+BumpHunter results: stat = 5.88021
+******************************************
+*** Final values 
+*** BH p-value = 0.346
+*** BH test statistic value = 5.88021
+*** Selected most discrepant range = 3100 - 3305
+******************************************
+Process ran in 66.28 seconds. 
+ZprimemR4p0_gSM0p4_1355events_seed1000:
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 5.90043
+Low edge, high edge of bump: 4975 5381
+Absolute values of LogL: 509.778
+Absolute values of Chi2: 48.407
+Absolute values of BumpHUnter: 5.90043
+Pval of logL: 0.203
+Pval of chi2: 0.302
+Pval of bumpHunter are: 0.37
+BumpHunter results: stat = 5.90043
+******************************************
+*** Final values 
+*** BH p-value = 0.37
+*** BH test statistic value = 5.90043
+*** Selected most discrepant range = 4975 - 5381
+******************************************
+Process ran in 68.18 seconds. 
+ZprimemR5p0_gSM0p4_186events_seed1000:
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 7.96093
+Low edge, high edge of bump: 4975 5381
+Absolute values of LogL: 508.005
+Absolute values of Chi2: 47.5478
+Absolute values of BumpHUnter: 7.96093
+Pval of logL: 0.248
+Pval of chi2: 0.359
+Pval of bumpHunter are: 0.074
+BumpHunter results: stat = 7.96093
+******************************************
+*** Final values 
+*** BH p-value = 0.074
+*** BH test statistic value = 7.96093
+*** Selected most discrepant range = 4975 - 5381
+******************************************
+Process ran in 65.86 seconds. 
+ZprimemR6p0_gSM0p4_24events_seed1000:
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 6.12979
+Low edge, high edge of bump: 4975 5381
+Absolute values of LogL: 508.521
+Absolute values of Chi2: 47.3815
+Absolute values of BumpHUnter: 6.12979
+Pval of logL: 0.25
+Pval of chi2: 0.359
+Pval of bumpHunter are: 0.317
+BumpHunter results: stat = 6.12979
+******************************************
+*** Final values 
+*** BH p-value = 0.317
+*** BH test statistic value = 6.12979
+*** Selected most discrepant range = 4975 - 5381
+******************************************
+Process ran in 66.64 seconds. 
+ZprimemR7p0_gSM0p4_3events_seed1000:
+Will bump hunt the spectrum in bins [42 - 132]
+	corresponding to a range [1100 - 8208]
+BumpHunter results: stat = 7.30801
+Low edge, high edge of bump: 4975 5381
+Absolute values of LogL: 502.024
+Absolute values of Chi2: 45.0454
+Absolute values of BumpHUnter: 7.30801
+Pval of logL: 0.408
+Pval of chi2: 0.47
+Pval of bumpHunter are: 0.125
+BumpHunter results: stat = 7.30801
+******************************************
+*** Final values 
+*** BH p-value = 0.125
+*** BH test statistic value = 7.30801
+*** Selected most discrepant range = 4975 - 5381
+******************************************
+Process ran in 64.59 seconds. 
+ZprimemR4p0_gSM0p4_1355events_seed5000:
+Will bump hunt the spectrum in bins [42 - 130]
+	corresponding to a range [1100 - 7904]
+BumpHunter results: stat = 5.13814
+Low edge, high edge of bump: 7052 7904
+Absolute values of LogL: 501.652
+Absolute values of Chi2: 47.4758
+Absolute values of BumpHUnter: 5.13814
+Pval of logL: 0.278
+Pval of chi2: 0.273
+Pval of bumpHunter are: 0.585
+BumpHunter results: stat = 5.13814
+******************************************
+*** Final values 
+*** BH p-value = 0.585
+*** BH test statistic value = 5.13814
+*** Selected most discrepant range = 7052 - 7904
+******************************************
+Process ran in 62.86 seconds. 
+ZprimemR5p0_gSM0p4_186events_seed5000:
+Will bump hunt the spectrum in bins [42 - 130]
+	corresponding to a range [1100 - 7904]
+BumpHunter results: stat = 5.01271
+Low edge, high edge of bump: 1533 1614
+Absolute values of LogL: 501.378
+Absolute values of Chi2: 47.2164
+Absolute values of BumpHUnter: 5.01271
+Pval of logL: 0.329
+Pval of chi2: 0.333
+Pval of bumpHunter are: 0.612
+BumpHunter results: stat = 5.01271
+******************************************
+*** Final values 
+*** BH p-value = 0.612
+*** BH test statistic value = 5.01271
+*** Selected most discrepant range = 1533 - 1614
+******************************************
+Process ran in 62.17 seconds. 
+ZprimemR6p0_gSM0p4_24events_seed5000:
+Will bump hunt the spectrum in bins [42 - 130]
+	corresponding to a range [1100 - 7904]
+BumpHunter results: stat = 5.01259
+Low edge, high edge of bump: 1533 1614
+Absolute values of LogL: 497.2
+Absolute values of Chi2: 43.1534
+Absolute values of BumpHUnter: 5.01259
+Pval of logL: 0.536
+Pval of chi2: 0.533
+Pval of bumpHunter are: 0.573
+BumpHunter results: stat = 5.01259
+******************************************
+*** Final values 
+*** BH p-value = 0.573
+*** BH test statistic value = 5.01259
+*** Selected most discrepant range = 1533 - 1614
+******************************************
+Process ran in 63.79 seconds. 
+ZprimemR7p0_gSM0p4_3events_seed5000:
+Will bump hunt the spectrum in bins [42 - 130]
+	corresponding to a range [1100 - 7904]
+BumpHunter results: stat = 5.0126
+Low edge, high edge of bump: 1533 1614
+Absolute values of LogL: 498.404
+Absolute values of Chi2: 44.7456
+Absolute values of BumpHUnter: 5.0126
+Pval of logL: 0.451
+Pval of chi2: 0.437
+Pval of bumpHunter are: 0.573
+BumpHunter results: stat = 5.0126
+******************************************
+*** Final values 
+*** BH p-value = 0.573
+*** BH test statistic value = 5.0126
+*** Selected most discrepant range = 1533 - 1614
+******************************************
+Process ran in 63.48 seconds. 
+ZprimemR4p0_gSM0p4_1355events_seed10000:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 4.90793
+Low edge, high edge of bump: 3827 3988
+Absolute values of LogL: 498.105
+Absolute values of Chi2: 42.2507
+Absolute values of BumpHUnter: 4.90793
+Pval of logL: 0.683
+Pval of chi2: 0.649
+Pval of bumpHunter are: 0.643
+BumpHunter results: stat = 4.90793
+******************************************
+*** Final values 
+*** BH p-value = 0.643
+*** BH test statistic value = 4.90793
+*** Selected most discrepant range = 3827 - 3988
+******************************************
+Process ran in 66.34 seconds. 
+ZprimemR5p0_gSM0p4_186events_seed10000:
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 3.56507
+Low edge, high edge of bump: 3034 3235
+Absolute values of LogL: 495.674
+Absolute values of Chi2: 38.5028
+Absolute values of BumpHUnter: 3.56507
+Pval of logL: 0.868
+Pval of chi2: 0.838
+Pval of bumpHunter are: 0.954
+BumpHunter results: stat = 3.56507
+******************************************
+*** Final values 
+*** BH p-value = 0.954
+*** BH test statistic value = 3.56507
+*** Selected most discrepant range = 3034 - 3235
+******************************************
+Process ran in 67.43 seconds. 
+ZprimemR6p0_gSM0p4_24events_seed10000:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 3.58387
+Low edge, high edge of bump: 5595 5817
+Absolute values of LogL: 494.674
+Absolute values of Chi2: 36.7849
+Absolute values of BumpHUnter: 3.58387
+Pval of logL: 0.898
+Pval of chi2: 0.903
+Pval of bumpHunter are: 0.948
+BumpHunter results: stat = 3.58387
+******************************************
+*** Final values 
+*** BH p-value = 0.948
+*** BH test statistic value = 3.58387
+*** Selected most discrepant range = 5595 - 5817
+******************************************
+Process ran in 66.15 seconds. 
+ZprimemR7p0_gSM0p4_3events_seed10000:
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 3.61832
+Low edge, high edge of bump: 5595 5817
+Absolute values of LogL: 495.101
+Absolute values of Chi2: 38.6328
+Absolute values of BumpHUnter: 3.61832
+Pval of logL: 0.859
+Pval of chi2: 0.802
+Pval of bumpHunter are: 0.946
+BumpHunter results: stat = 3.61832
+******************************************
+*** Final values 
+*** BH p-value = 0.946
+*** BH test statistic value = 3.61832
+*** Selected most discrepant range = 5595 - 5817
+******************************************
+Process ran in 68.07 seconds. 
+ZprimemR4p0_gSM0p4_1355events_seed50000:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 6.69505
+Low edge, high edge of bump: 3827 4414
+Absolute values of LogL: 505.92
+Absolute values of Chi2: 47.4133
+Absolute values of BumpHUnter: 6.69505
+Pval of logL: 0.392
+Pval of chi2: 0.351
+Pval of bumpHunter are: 0.225
+BumpHunter results: stat = 6.69505
+******************************************
+*** Final values 
+*** BH p-value = 0.225
+*** BH test statistic value = 6.69505
+*** Selected most discrepant range = 3827 - 4414
+******************************************
+Process ran in 67.92 seconds. 
+ZprimemR5p0_gSM0p4_186events_seed50000:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 4.22447
+Low edge, high edge of bump: 2542 2780
+Absolute values of LogL: 502.119
+Absolute values of Chi2: 43.6857
+Absolute values of BumpHUnter: 4.22447
+Pval of logL: 0.587
+Pval of chi2: 0.561
+Pval of bumpHunter are: 0.839
+BumpHunter results: stat = 4.22447
+******************************************
+*** Final values 
+*** BH p-value = 0.839
+*** BH test statistic value = 4.22447
+*** Selected most discrepant range = 2542 - 2780
+******************************************
+Process ran in 66.93 seconds. 
+ZprimemR6p0_gSM0p4_24events_seed50000:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 4.27931
+Low edge, high edge of bump: 3907 4414
+Absolute values of LogL: 504.277
+Absolute values of Chi2: 45.641
+Absolute values of BumpHUnter: 4.27931
+Pval of logL: 0.459
+Pval of chi2: 0.457
+Pval of bumpHunter are: 0.836
+BumpHunter results: stat = 4.27931
+******************************************
+*** Final values 
+*** BH p-value = 0.836
+*** BH test statistic value = 4.27931
+*** Selected most discrepant range = 3907 - 4414
+******************************************
+Process ran in 67.86 seconds. 
+ZprimemR7p0_gSM0p4_3events_seed50000:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 4.42072
+Low edge, high edge of bump: 3907 4414
+Absolute values of LogL: 502.14
+Absolute values of Chi2: 43.8954
+Absolute values of BumpHUnter: 4.42072
+Pval of logL: 0.575
+Pval of chi2: 0.544
+Pval of bumpHunter are: 0.787
+BumpHunter results: stat = 4.42072
+******************************************
+*** Final values 
+*** BH p-value = 0.787
+*** BH test statistic value = 4.42072
+*** Selected most discrepant range = 3907 - 4414
+******************************************
+Process ran in 67.05 seconds. 
+ZprimemR4p0_gSM0p4_1355events_seed100000:
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 7.78548
+Low edge, high edge of bump: 3749 3988
+Absolute values of LogL: 521.021
+Absolute values of Chi2: 61.2525
+Absolute values of BumpHUnter: 7.78548
+Pval of logL: 0.005
+Pval of chi2: 0.012
+Pval of bumpHunter are: 0.095
+BumpHunter results: stat = 7.78548
+******************************************
+*** Final values 
+*** BH p-value = 0.095
+*** BH test statistic value = 7.78548
+*** Selected most discrepant range = 3749 - 3988
+******************************************
+Process ran in 66.6 seconds. 
+ZprimemR5p0_gSM0p4_186events_seed100000:
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 4.85067
+Low edge, high edge of bump: 2374 2542
+Absolute values of LogL: 507.986
+Absolute values of Chi2: 50.1003
+Absolute values of BumpHUnter: 4.85067
+Pval of logL: 0.223
+Pval of chi2: 0.222
+Pval of bumpHunter are: 0.646
+BumpHunter results: stat = 4.85067
+******************************************
+*** Final values 
+*** BH p-value = 0.646
+*** BH test statistic value = 4.85067
+*** Selected most discrepant range = 2374 - 2542
+******************************************
+Process ran in 65.62 seconds. 
+ZprimemR6p0_gSM0p4_24events_seed100000:
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 4.85291
+Low edge, high edge of bump: 2374 2542
+Absolute values of LogL: 512.067
+Absolute values of Chi2: 51.1372
+Absolute values of BumpHUnter: 4.85291
+Pval of logL: 0.147
+Pval of chi2: 0.194
+Pval of bumpHunter are: 0.656
+BumpHunter results: stat = 4.85291
+******************************************
+*** Final values 
+*** BH p-value = 0.656
+*** BH test statistic value = 4.85291
+*** Selected most discrepant range = 2374 - 2542
+******************************************
+Process ran in 68.35 seconds. 
+ZprimemR7p0_gSM0p4_3events_seed100000:
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 6.88337
+Low edge, high edge of bump: 5277 5487
+Absolute values of LogL: 515.057
+Absolute values of Chi2: 53.9374
+Absolute values of BumpHUnter: 6.88337
+Pval of logL: 0.086
+Pval of chi2: 0.124
+Pval of bumpHunter are: 0.195
+BumpHunter results: stat = 6.88337
+******************************************
+*** Final values 
+*** BH p-value = 0.195
+*** BH test statistic value = 6.88337
+*** Selected most discrepant range = 5277 - 5487
+******************************************
+Process ran in 67.5 seconds. 
+ZprimemR4p0_gSM0p4_1355events_seed500000:
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 6.74478
+Low edge, high edge of bump: 3827 4326
+Absolute values of LogL: 507.315
+Absolute values of Chi2: 49.4341
+Absolute values of BumpHUnter: 6.74478
+Pval of logL: 0.202
+Pval of chi2: 0.244
+Pval of bumpHunter are: 0.193
+BumpHunter results: stat = 6.74478
+******************************************
+*** Final values 
+*** BH p-value = 0.193
+*** BH test statistic value = 6.74478
+*** Selected most discrepant range = 3827 - 4326
+******************************************
+Process ran in 66.29 seconds. 
+ZprimemR5p0_gSM0p4_186events_seed500000:
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 6.26521
+Low edge, high edge of bump: 2719 2842
+Absolute values of LogL: 511.063
+Absolute values of Chi2: 51.3376
+Absolute values of BumpHUnter: 6.26521
+Pval of logL: 0.149
+Pval of chi2: 0.178
+Pval of bumpHunter are: 0.289
+BumpHunter results: stat = 6.26521
+******************************************
+*** Final values 
+*** BH p-value = 0.289
+*** BH test statistic value = 6.26521
+*** Selected most discrepant range = 2719 - 2842
+******************************************
+Process ran in 67.11 seconds. 
+ZprimemR6p0_gSM0p4_24events_seed500000:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 6.25201
+Low edge, high edge of bump: 2719 2842
+Absolute values of LogL: 501.904
+Absolute values of Chi2: 44.883
+Absolute values of BumpHUnter: 6.25201
+Pval of logL: 0.465
+Pval of chi2: 0.491
+Pval of bumpHunter are: 0.292
+BumpHunter results: stat = 6.25201
+******************************************
+*** Final values 
+*** BH p-value = 0.292
+*** BH test statistic value = 6.25201
+*** Selected most discrepant range = 2719 - 2842
+******************************************
+Process ran in 67.09 seconds. 
+ZprimemR7p0_gSM0p4_3events_seed500000:
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 6.24225
+Low edge, high edge of bump: 2719 2842
+Absolute values of LogL: 501.809
+Absolute values of Chi2: 45.0473
+Absolute values of BumpHUnter: 6.24225
+Pval of logL: 0.456
+Pval of chi2: 0.478
+Pval of bumpHunter are: 0.312
+BumpHunter results: stat = 6.24225
+******************************************
+*** Final values 
+*** BH p-value = 0.312
+*** BH test statistic value = 6.24225
+*** Selected most discrepant range = 2719 - 2842
+******************************************
+Process ran in 68.15 seconds. 

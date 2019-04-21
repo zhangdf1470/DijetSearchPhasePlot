@@ -1,0 +1,1553 @@
+Mass: 3000GeV, NEvents: 9500
+Will bump hunt the spectrum in bins [42 - 132]
+	corresponding to a range [1100 - 8208]
+BumpHunter results: stat = 10.8251
+Low edge, high edge of bump: 3100 3448
+Absolute values of LogL: 503.7
+Absolute values of Chi2: 48.0408
+Absolute values of BumpHUnter: 10.8251
+Pval of logL: 0.316
+Pval of chi2: 0.29
+Pval of bumpHunter are: 0.008
+BumpHunter results: stat = 10.8251
+******************************************
+*** Final values 
+*** BH p-value = 0.008
+*** BH test statistic value = 10.8251
+*** Selected most discrepant range = 3100 - 3448
+******************************************
+Process ran in 58.01 seconds. 
+Mass: 3000GeV, NEvents: 9000
+Will bump hunt the spectrum in bins [42 - 132]
+	corresponding to a range [1100 - 8208]
+BumpHunter results: stat = 10.178
+Low edge, high edge of bump: 3100 3448
+Absolute values of LogL: 502.318
+Absolute values of Chi2: 46.6602
+Absolute values of BumpHUnter: 10.178
+Pval of logL: 0.364
+Pval of chi2: 0.343
+Pval of bumpHunter are: 0.012
+BumpHunter results: stat = 10.178
+******************************************
+*** Final values 
+*** BH p-value = 0.012
+*** BH test statistic value = 10.178
+*** Selected most discrepant range = 3100 - 3448
+******************************************
+Process ran in 54.72 seconds. 
+Mass: 3000GeV, NEvents: 8500
+Will bump hunt the spectrum in bins [42 - 132]
+	corresponding to a range [1100 - 8208]
+BumpHunter results: stat = 9.59877
+Low edge, high edge of bump: 3100 3448
+Absolute values of LogL: 501.168
+Absolute values of Chi2: 45.5831
+Absolute values of BumpHUnter: 9.59877
+Pval of logL: 0.41
+Pval of chi2: 0.393
+Pval of bumpHunter are: 0.02
+BumpHunter results: stat = 9.59877
+******************************************
+*** Final values 
+*** BH p-value = 0.02
+*** BH test statistic value = 9.59877
+*** Selected most discrepant range = 3100 - 3448
+******************************************
+Process ran in 55.72 seconds. 
+Mass: 3000GeV, NEvents: 8000
+Will bump hunt the spectrum in bins [42 - 132]
+	corresponding to a range [1100 - 8208]
+BumpHunter results: stat = 8.9818
+Low edge, high edge of bump: 3100 3448
+Absolute values of LogL: 499.889
+Absolute values of Chi2: 44.3208
+Absolute values of BumpHUnter: 8.9818
+Pval of logL: 0.507
+Pval of chi2: 0.482
+Pval of bumpHunter are: 0.027
+BumpHunter results: stat = 8.9818
+******************************************
+*** Final values 
+*** BH p-value = 0.027
+*** BH test statistic value = 8.9818
+*** Selected most discrepant range = 3100 - 3448
+******************************************
+Process ran in 60.6 seconds. 
+Mass: 3000GeV, NEvents: 7500
+Will bump hunt the spectrum in bins [42 - 132]
+	corresponding to a range [1100 - 8208]
+BumpHunter results: stat = 8.41434
+Low edge, high edge of bump: 3100 3448
+Absolute values of LogL: 498.765
+Absolute values of Chi2: 43.2495
+Absolute values of BumpHUnter: 8.41434
+Pval of logL: 0.567
+Pval of chi2: 0.541
+Pval of bumpHunter are: 0.053
+BumpHunter results: stat = 8.41434
+******************************************
+*** Final values 
+*** BH p-value = 0.053
+*** BH test statistic value = 8.41434
+*** Selected most discrepant range = 3100 - 3448
+******************************************
+Process ran in 59.47 seconds. 
+Mass: 3000GeV, NEvents: 7000
+Will bump hunt the spectrum in bins [42 - 132]
+	corresponding to a range [1100 - 8208]
+BumpHunter results: stat = 7.88205
+Low edge, high edge of bump: 3100 3448
+Absolute values of LogL: 497.734
+Absolute values of Chi2: 42.2507
+Absolute values of BumpHUnter: 7.88205
+Pval of logL: 0.644
+Pval of chi2: 0.626
+Pval of bumpHunter are: 0.082
+BumpHunter results: stat = 7.88205
+******************************************
+*** Final values 
+*** BH p-value = 0.082
+*** BH test statistic value = 7.88205
+*** Selected most discrepant range = 3100 - 3448
+******************************************
+Process ran in 61.04 seconds. 
+Mass: 3000GeV, NEvents: 3000
+Gaus_3000GeV_3000events doesn't exist.
+Mass: 3000GeV, NEvents: 3200
+Gaus_3000GeV_3200events doesn't exist.
+Mass: 3000GeV, NEvents: 3400
+Gaus_3000GeV_3400events doesn't exist.
+Mass: 3000GeV, NEvents: 3600
+Gaus_3000GeV_3600events doesn't exist.
+Mass: 3000GeV, NEvents: 3800
+Gaus_3000GeV_3800events doesn't exist.
+Mass: 3000GeV, NEvents: 4000
+Gaus_3000GeV_4000events doesn't exist.
+Mass: 3000GeV, NEvents: 1900
+Gaus_3000GeV_1900events doesn't exist.
+Mass: 3000GeV, NEvents: 2100
+Gaus_3000GeV_2100events doesn't exist.
+Mass: 3000GeV, NEvents: 2300
+Gaus_3000GeV_2300events doesn't exist.
+Mass: 3000GeV, NEvents: 2500
+Gaus_3000GeV_2500events doesn't exist.
+Mass: 3000GeV, NEvents: 2700
+Gaus_3000GeV_2700events doesn't exist.
+Mass: 3000GeV, NEvents: 1500
+Gaus_3000GeV_1500events doesn't exist.
+Mass: 3000GeV, NEvents: 1600
+Gaus_3000GeV_1600events doesn't exist.
+Mass: 3000GeV, NEvents: 1700
+Gaus_3000GeV_1700events doesn't exist.
+Mass: 3000GeV, NEvents: 1800
+Gaus_3000GeV_1800events doesn't exist.
+Mass: 3000GeV, NEvents: 1900
+Gaus_3000GeV_1900events doesn't exist.
+Mass: 3000GeV, NEvents: 2000
+Gaus_3000GeV_2000events doesn't exist.
+Mass: 3000GeV, NEvents: 650
+Gaus_3000GeV_650events doesn't exist.
+Mass: 3000GeV, NEvents: 700
+Gaus_3000GeV_700events doesn't exist.
+Mass: 3000GeV, NEvents: 750
+Gaus_3000GeV_750events doesn't exist.
+Mass: 3000GeV, NEvents: 800
+Gaus_3000GeV_800events doesn't exist.
+Mass: 3000GeV, NEvents: 850
+Gaus_3000GeV_850events doesn't exist.
+Mass: 3000GeV, NEvents: 220
+Gaus_3000GeV_220events doesn't exist.
+Mass: 3000GeV, NEvents: 240
+Gaus_3000GeV_240events doesn't exist.
+Mass: 3000GeV, NEvents: 260
+Gaus_3000GeV_260events doesn't exist.
+Mass: 3000GeV, NEvents: 280
+Gaus_3000GeV_280events doesn't exist.
+Mass: 3000GeV, NEvents: 300
+Gaus_3000GeV_300events doesn't exist.
+Mass: 3000GeV, NEvents: 320
+Gaus_3000GeV_320events doesn't exist.
+Mass: 3000GeV, NEvents: 120
+Gaus_3000GeV_120events doesn't exist.
+Mass: 3000GeV, NEvents: 140
+Gaus_3000GeV_140events doesn't exist.
+Mass: 3000GeV, NEvents: 160
+Gaus_3000GeV_160events doesn't exist.
+Mass: 3000GeV, NEvents: 180
+Gaus_3000GeV_180events doesn't exist.
+Mass: 3000GeV, NEvents: 200
+Gaus_3000GeV_200events doesn't exist.
+Mass: 3000GeV, NEvents: 50
+Gaus_3000GeV_50events doesn't exist.
+Mass: 3000GeV, NEvents: 60
+Gaus_3000GeV_60events doesn't exist.
+Mass: 3000GeV, NEvents: 70
+Gaus_3000GeV_70events doesn't exist.
+Mass: 3000GeV, NEvents: 80
+Gaus_3000GeV_80events doesn't exist.
+Mass: 3000GeV, NEvents: 90
+Gaus_3000GeV_90events doesn't exist.
+Mass: 3000GeV, NEvents: 100
+Gaus_3000GeV_100events doesn't exist.
+Mass: 4000GeV, NEvents: 9500
+Gaus_4000GeV_9500events doesn't exist.
+Mass: 4000GeV, NEvents: 9000
+Gaus_4000GeV_9000events doesn't exist.
+Mass: 4000GeV, NEvents: 8500
+Gaus_4000GeV_8500events doesn't exist.
+Mass: 4000GeV, NEvents: 8000
+Gaus_4000GeV_8000events doesn't exist.
+Mass: 4000GeV, NEvents: 7500
+Gaus_4000GeV_7500events doesn't exist.
+Mass: 4000GeV, NEvents: 7000
+Gaus_4000GeV_7000events doesn't exist.
+Mass: 4000GeV, NEvents: 3000
+Will bump hunt the spectrum in bins [42 - 132]
+	corresponding to a range [1100 - 8208]
+BumpHunter results: stat = 8.82587
+Low edge, high edge of bump: 4070 4688
+Absolute values of LogL: 501.689
+Absolute values of Chi2: 44.3492
+Absolute values of BumpHUnter: 8.82587
+Pval of logL: 0.505
+Pval of chi2: 0.481
+Pval of bumpHunter are: 0.033
+BumpHunter results: stat = 8.82587
+******************************************
+*** Final values 
+*** BH p-value = 0.033
+*** BH test statistic value = 8.82587
+*** Selected most discrepant range = 4070 - 4688
+******************************************
+Process ran in 61.26 seconds. 
+Mass: 4000GeV, NEvents: 3200
+Will bump hunt the spectrum in bins [42 - 132]
+	corresponding to a range [1100 - 8208]
+BumpHunter results: stat = 9.40492
+Low edge, high edge of bump: 4070 4688
+Absolute values of LogL: 502.971
+Absolute values of Chi2: 45.5147
+Absolute values of BumpHUnter: 9.40492
+Pval of logL: 0.453
+Pval of chi2: 0.434
+Pval of bumpHunter are: 0.018
+BumpHunter results: stat = 9.40492
+******************************************
+*** Final values 
+*** BH p-value = 0.018
+*** BH test statistic value = 9.40492
+*** Selected most discrepant range = 4070 - 4688
+******************************************
+Process ran in 60.07 seconds. 
+Mass: 4000GeV, NEvents: 3400
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 9.69982
+Low edge, high edge of bump: 4070 4688
+Absolute values of LogL: 502.867
+Absolute values of Chi2: 43.3153
+Absolute values of BumpHUnter: 9.69982
+Pval of logL: 0.637
+Pval of chi2: 0.591
+Pval of bumpHunter are: 0.018
+BumpHunter results: stat = 9.69982
+******************************************
+*** Final values 
+*** BH p-value = 0.018
+*** BH test statistic value = 9.69982
+*** Selected most discrepant range = 4070 - 4688
+******************************************
+Process ran in 62.24 seconds. 
+Mass: 4000GeV, NEvents: 3600
+Will bump hunt the spectrum in bins [42 - 132]
+	corresponding to a range [1100 - 8208]
+BumpHunter results: stat = 10.4214
+Low edge, high edge of bump: 4070 4688
+Absolute values of LogL: 505.369
+Absolute values of Chi2: 47.6091
+Absolute values of BumpHUnter: 10.4214
+Pval of logL: 0.308
+Pval of chi2: 0.3
+Pval of bumpHunter are: 0.003
+BumpHunter results: stat = 10.4214
+******************************************
+*** Final values 
+*** BH p-value = 0.003
+*** BH test statistic value = 10.4214
+*** Selected most discrepant range = 4070 - 4688
+******************************************
+Process ran in 58.51 seconds. 
+Mass: 4000GeV, NEvents: 3800
+Will bump hunt the spectrum in bins [42 - 132]
+	corresponding to a range [1100 - 8208]
+BumpHunter results: stat = 11.0352
+Low edge, high edge of bump: 4070 4688
+Absolute values of LogL: 506.896
+Absolute values of Chi2: 48.9506
+Absolute values of BumpHUnter: 11.0352
+Pval of logL: 0.261
+Pval of chi2: 0.259
+Pval of bumpHunter are: 0.006
+BumpHunter results: stat = 11.0352
+******************************************
+*** Final values 
+*** BH p-value = 0.006
+*** BH test statistic value = 11.0352
+*** Selected most discrepant range = 4070 - 4688
+******************************************
+Process ran in 60.39 seconds. 
+Mass: 4000GeV, NEvents: 4000
+Will bump hunt the spectrum in bins [42 - 132]
+	corresponding to a range [1100 - 8208]
+BumpHunter results: stat = 11.6517
+Low edge, high edge of bump: 4070 4688
+Absolute values of LogL: 508.689
+Absolute values of Chi2: 50.6744
+Absolute values of BumpHUnter: 11.6517
+Pval of logL: 0.192
+Pval of chi2: 0.181
+Pval of bumpHunter are: 0.002
+BumpHunter results: stat = 11.6517
+******************************************
+*** Final values 
+*** BH p-value = 0.002
+*** BH test statistic value = 11.6517
+*** Selected most discrepant range = 4070 - 4688
+******************************************
+Process ran in 61.29 seconds. 
+Mass: 4000GeV, NEvents: 1900
+Gaus_4000GeV_1900events doesn't exist.
+Mass: 4000GeV, NEvents: 2100
+Gaus_4000GeV_2100events doesn't exist.
+Mass: 4000GeV, NEvents: 2300
+Gaus_4000GeV_2300events doesn't exist.
+Mass: 4000GeV, NEvents: 2500
+Gaus_4000GeV_2500events doesn't exist.
+Mass: 4000GeV, NEvents: 2700
+Gaus_4000GeV_2700events doesn't exist.
+Mass: 4000GeV, NEvents: 1500
+Gaus_4000GeV_1500events doesn't exist.
+Mass: 4000GeV, NEvents: 1600
+Gaus_4000GeV_1600events doesn't exist.
+Mass: 4000GeV, NEvents: 1700
+Gaus_4000GeV_1700events doesn't exist.
+Mass: 4000GeV, NEvents: 1800
+Gaus_4000GeV_1800events doesn't exist.
+Mass: 4000GeV, NEvents: 1900
+Gaus_4000GeV_1900events doesn't exist.
+Mass: 4000GeV, NEvents: 2000
+Gaus_4000GeV_2000events doesn't exist.
+Mass: 4000GeV, NEvents: 650
+Gaus_4000GeV_650events doesn't exist.
+Mass: 4000GeV, NEvents: 700
+Gaus_4000GeV_700events doesn't exist.
+Mass: 4000GeV, NEvents: 750
+Gaus_4000GeV_750events doesn't exist.
+Mass: 4000GeV, NEvents: 800
+Gaus_4000GeV_800events doesn't exist.
+Mass: 4000GeV, NEvents: 850
+Gaus_4000GeV_850events doesn't exist.
+Mass: 4000GeV, NEvents: 220
+Gaus_4000GeV_220events doesn't exist.
+Mass: 4000GeV, NEvents: 240
+Gaus_4000GeV_240events doesn't exist.
+Mass: 4000GeV, NEvents: 260
+Gaus_4000GeV_260events doesn't exist.
+Mass: 4000GeV, NEvents: 280
+Gaus_4000GeV_280events doesn't exist.
+Mass: 4000GeV, NEvents: 300
+Gaus_4000GeV_300events doesn't exist.
+Mass: 4000GeV, NEvents: 320
+Gaus_4000GeV_320events doesn't exist.
+Mass: 4000GeV, NEvents: 120
+Gaus_4000GeV_120events doesn't exist.
+Mass: 4000GeV, NEvents: 140
+Gaus_4000GeV_140events doesn't exist.
+Mass: 4000GeV, NEvents: 160
+Gaus_4000GeV_160events doesn't exist.
+Mass: 4000GeV, NEvents: 180
+Gaus_4000GeV_180events doesn't exist.
+Mass: 4000GeV, NEvents: 200
+Gaus_4000GeV_200events doesn't exist.
+Mass: 4000GeV, NEvents: 50
+Gaus_4000GeV_50events doesn't exist.
+Mass: 4000GeV, NEvents: 60
+Gaus_4000GeV_60events doesn't exist.
+Mass: 4000GeV, NEvents: 70
+Gaus_4000GeV_70events doesn't exist.
+Mass: 4000GeV, NEvents: 80
+Gaus_4000GeV_80events doesn't exist.
+Mass: 4000GeV, NEvents: 90
+Gaus_4000GeV_90events doesn't exist.
+Mass: 4000GeV, NEvents: 100
+Gaus_4000GeV_100events doesn't exist.
+Mass: 4500GeV, NEvents: 9500
+Gaus_4500GeV_9500events doesn't exist.
+Mass: 4500GeV, NEvents: 9000
+Gaus_4500GeV_9000events doesn't exist.
+Mass: 4500GeV, NEvents: 8500
+Gaus_4500GeV_8500events doesn't exist.
+Mass: 4500GeV, NEvents: 8000
+Gaus_4500GeV_8000events doesn't exist.
+Mass: 4500GeV, NEvents: 7500
+Gaus_4500GeV_7500events doesn't exist.
+Mass: 4500GeV, NEvents: 7000
+Gaus_4500GeV_7000events doesn't exist.
+Mass: 4500GeV, NEvents: 3000
+Will bump hunt the spectrum in bins [42 - 132]
+	corresponding to a range [1100 - 8208]
+BumpHunter results: stat = 7.47579
+Low edge, high edge of bump: 4878 5074
+Absolute values of LogL: 509.441
+Absolute values of Chi2: 48.805
+Absolute values of BumpHUnter: 7.47579
+Pval of logL: 0.295
+Pval of chi2: 0.257
+Pval of bumpHunter are: 0.132
+BumpHunter results: stat = 7.47579
+******************************************
+*** Final values 
+*** BH p-value = 0.132
+*** BH test statistic value = 7.47579
+*** Selected most discrepant range = 4878 - 5074
+******************************************
+Process ran in 62.53 seconds. 
+Mass: 4500GeV, NEvents: 3200
+Gaus_4500GeV_3200events doesn't exist.
+Mass: 4500GeV, NEvents: 3400
+Gaus_4500GeV_3400events doesn't exist.
+Mass: 4500GeV, NEvents: 3600
+Gaus_4500GeV_3600events doesn't exist.
+Mass: 4500GeV, NEvents: 3800
+Gaus_4500GeV_3800events doesn't exist.
+Mass: 4500GeV, NEvents: 4000
+Gaus_4500GeV_4000events doesn't exist.
+Mass: 4500GeV, NEvents: 1900
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 5.83491
+Low edge, high edge of bump: 4878 5074
+Absolute values of LogL: 499.515
+Absolute values of Chi2: 38.3132
+Absolute values of BumpHUnter: 5.83491
+Pval of logL: 0.882
+Pval of chi2: 0.843
+Pval of bumpHunter are: 0.394
+BumpHunter results: stat = 5.83491
+******************************************
+*** Final values 
+*** BH p-value = 0.394
+*** BH test statistic value = 5.83491
+*** Selected most discrepant range = 4878 - 5074
+******************************************
+Process ran in 60.43 seconds. 
+Mass: 4500GeV, NEvents: 2100
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 5.8759
+Low edge, high edge of bump: 4878 5074
+Absolute values of LogL: 502.085
+Absolute values of Chi2: 40.4238
+Absolute values of BumpHUnter: 5.8759
+Pval of logL: 0.792
+Pval of chi2: 0.744
+Pval of bumpHunter are: 0.385
+BumpHunter results: stat = 5.8759
+******************************************
+*** Final values 
+*** BH p-value = 0.385
+*** BH test statistic value = 5.8759
+*** Selected most discrepant range = 4878 - 5074
+******************************************
+Process ran in 60.36 seconds. 
+Mass: 4500GeV, NEvents: 2300
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 6.55558
+Low edge, high edge of bump: 4878 5074
+Absolute values of LogL: 503.214
+Absolute values of Chi2: 41.3002
+Absolute values of BumpHUnter: 6.55558
+Pval of logL: 0.747
+Pval of chi2: 0.702
+Pval of bumpHunter are: 0.236
+BumpHunter results: stat = 6.55558
+******************************************
+*** Final values 
+*** BH p-value = 0.236
+*** BH test statistic value = 6.55558
+*** Selected most discrepant range = 4878 - 5074
+******************************************
+Process ran in 53.06 seconds. 
+Mass: 4500GeV, NEvents: 2500
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 6.94567
+Low edge, high edge of bump: 4878 5074
+Absolute values of LogL: 505.492
+Absolute values of Chi2: 43.3223
+Absolute values of BumpHUnter: 6.94567
+Pval of logL: 0.64
+Pval of chi2: 0.587
+Pval of bumpHunter are: 0.187
+BumpHunter results: stat = 6.94567
+******************************************
+*** Final values 
+*** BH p-value = 0.187
+*** BH test statistic value = 6.94567
+*** Selected most discrepant range = 4878 - 5074
+******************************************
+Process ran in 53.38 seconds. 
+Mass: 4500GeV, NEvents: 2700
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 7.09471
+Low edge, high edge of bump: 4878 5074
+Absolute values of LogL: 507.355
+Absolute values of Chi2: 44.819
+Absolute values of BumpHUnter: 7.09471
+Pval of logL: 0.565
+Pval of chi2: 0.514
+Pval of bumpHunter are: 0.173
+BumpHunter results: stat = 7.09471
+******************************************
+*** Final values 
+*** BH p-value = 0.173
+*** BH test statistic value = 7.09471
+*** Selected most discrepant range = 4878 - 5074
+******************************************
+Process ran in 54.61 seconds. 
+Mass: 4500GeV, NEvents: 1500
+Gaus_4500GeV_1500events doesn't exist.
+Mass: 4500GeV, NEvents: 1600
+Gaus_4500GeV_1600events doesn't exist.
+Mass: 4500GeV, NEvents: 1700
+Gaus_4500GeV_1700events doesn't exist.
+Mass: 4500GeV, NEvents: 1800
+Gaus_4500GeV_1800events doesn't exist.
+Mass: 4500GeV, NEvents: 1900
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 5.83491
+Low edge, high edge of bump: 4878 5074
+Absolute values of LogL: 499.515
+Absolute values of Chi2: 38.3132
+Absolute values of BumpHUnter: 5.83491
+Pval of logL: 0.879
+Pval of chi2: 0.842
+Pval of bumpHunter are: 0.362
+BumpHunter results: stat = 5.83491
+******************************************
+*** Final values 
+*** BH p-value = 0.362
+*** BH test statistic value = 5.83491
+*** Selected most discrepant range = 4878 - 5074
+******************************************
+Process ran in 56.19 seconds. 
+Mass: 4500GeV, NEvents: 2000
+Gaus_4500GeV_2000events doesn't exist.
+Mass: 4500GeV, NEvents: 650
+Gaus_4500GeV_650events doesn't exist.
+Mass: 4500GeV, NEvents: 700
+Gaus_4500GeV_700events doesn't exist.
+Mass: 4500GeV, NEvents: 750
+Gaus_4500GeV_750events doesn't exist.
+Mass: 4500GeV, NEvents: 800
+Gaus_4500GeV_800events doesn't exist.
+Mass: 4500GeV, NEvents: 850
+Gaus_4500GeV_850events doesn't exist.
+Mass: 4500GeV, NEvents: 220
+Gaus_4500GeV_220events doesn't exist.
+Mass: 4500GeV, NEvents: 240
+Gaus_4500GeV_240events doesn't exist.
+Mass: 4500GeV, NEvents: 260
+Gaus_4500GeV_260events doesn't exist.
+Mass: 4500GeV, NEvents: 280
+Gaus_4500GeV_280events doesn't exist.
+Mass: 4500GeV, NEvents: 300
+Gaus_4500GeV_300events doesn't exist.
+Mass: 4500GeV, NEvents: 320
+Gaus_4500GeV_320events doesn't exist.
+Mass: 4500GeV, NEvents: 120
+Gaus_4500GeV_120events doesn't exist.
+Mass: 4500GeV, NEvents: 140
+Gaus_4500GeV_140events doesn't exist.
+Mass: 4500GeV, NEvents: 160
+Gaus_4500GeV_160events doesn't exist.
+Mass: 4500GeV, NEvents: 180
+Gaus_4500GeV_180events doesn't exist.
+Mass: 4500GeV, NEvents: 200
+Gaus_4500GeV_200events doesn't exist.
+Mass: 4500GeV, NEvents: 50
+Gaus_4500GeV_50events doesn't exist.
+Mass: 4500GeV, NEvents: 60
+Gaus_4500GeV_60events doesn't exist.
+Mass: 4500GeV, NEvents: 70
+Gaus_4500GeV_70events doesn't exist.
+Mass: 4500GeV, NEvents: 80
+Gaus_4500GeV_80events doesn't exist.
+Mass: 4500GeV, NEvents: 90
+Gaus_4500GeV_90events doesn't exist.
+Mass: 4500GeV, NEvents: 100
+Gaus_4500GeV_100events doesn't exist.
+Mass: 5000GeV, NEvents: 9500
+Gaus_5000GeV_9500events doesn't exist.
+Mass: 5000GeV, NEvents: 9000
+Gaus_5000GeV_9000events doesn't exist.
+Mass: 5000GeV, NEvents: 8500
+Gaus_5000GeV_8500events doesn't exist.
+Mass: 5000GeV, NEvents: 8000
+Gaus_5000GeV_8000events doesn't exist.
+Mass: 5000GeV, NEvents: 7500
+Gaus_5000GeV_7500events doesn't exist.
+Mass: 5000GeV, NEvents: 7000
+Gaus_5000GeV_7000events doesn't exist.
+Mass: 5000GeV, NEvents: 3000
+Gaus_5000GeV_3000events doesn't exist.
+Mass: 5000GeV, NEvents: 3200
+Gaus_5000GeV_3200events doesn't exist.
+Mass: 5000GeV, NEvents: 3400
+Gaus_5000GeV_3400events doesn't exist.
+Mass: 5000GeV, NEvents: 3600
+Gaus_5000GeV_3600events doesn't exist.
+Mass: 5000GeV, NEvents: 3800
+Gaus_5000GeV_3800events doesn't exist.
+Mass: 5000GeV, NEvents: 4000
+Gaus_5000GeV_4000events doesn't exist.
+Mass: 5000GeV, NEvents: 1900
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 6.0442
+Low edge, high edge of bump: 4878 6285
+Absolute values of LogL: 509.384
+Absolute values of Chi2: 47.0304
+Absolute values of BumpHUnter: 6.0442
+Pval of logL: 0.441
+Pval of chi2: 0.385
+Pval of bumpHunter are: 0.343
+BumpHunter results: stat = 6.0442
+******************************************
+*** Final values 
+*** BH p-value = 0.343
+*** BH test statistic value = 6.0442
+*** Selected most discrepant range = 4878 - 6285
+******************************************
+Process ran in 53.21 seconds. 
+Mass: 5000GeV, NEvents: 2100
+Gaus_5000GeV_2100events doesn't exist.
+Mass: 5000GeV, NEvents: 2300
+Gaus_5000GeV_2300events doesn't exist.
+Mass: 5000GeV, NEvents: 2500
+Gaus_5000GeV_2500events doesn't exist.
+Mass: 5000GeV, NEvents: 2700
+Gaus_5000GeV_2700events doesn't exist.
+Mass: 5000GeV, NEvents: 1500
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 5.31007
+Low edge, high edge of bump: 4878 6285
+Absolute values of LogL: 507.829
+Absolute values of Chi2: 43.838
+Absolute values of BumpHUnter: 5.31007
+Pval of logL: 0.652
+Pval of chi2: 0.577
+Pval of bumpHunter are: 0.513
+BumpHunter results: stat = 5.31007
+******************************************
+*** Final values 
+*** BH p-value = 0.513
+*** BH test statistic value = 5.31007
+*** Selected most discrepant range = 4878 - 6285
+******************************************
+Process ran in 56.43 seconds. 
+Mass: 5000GeV, NEvents: 1600
+Will bump hunt the spectrum in bins [42 - 132]
+	corresponding to a range [1100 - 8208]
+BumpHunter results: stat = 5.53843
+Low edge, high edge of bump: 5381 6165
+Absolute values of LogL: 506.54
+Absolute values of Chi2: 45.8319
+Absolute values of BumpHUnter: 5.53843
+Pval of logL: 0.556
+Pval of chi2: 0.403
+Pval of bumpHunter are: 0.447
+BumpHunter results: stat = 5.53843
+******************************************
+*** Final values 
+*** BH p-value = 0.447
+*** BH test statistic value = 5.53843
+*** Selected most discrepant range = 5381 - 6165
+******************************************
+Process ran in 52 seconds. 
+Mass: 5000GeV, NEvents: 1700
+Will bump hunt the spectrum in bins [42 - 132]
+	corresponding to a range [1100 - 8208]
+BumpHunter results: stat = 5.7527
+Low edge, high edge of bump: 4878 6285
+Absolute values of LogL: 507.361
+Absolute values of Chi2: 44.3843
+Absolute values of BumpHUnter: 5.7527
+Pval of logL: 0.559
+Pval of chi2: 0.5
+Pval of bumpHunter are: 0.415
+BumpHunter results: stat = 5.7527
+******************************************
+*** Final values 
+*** BH p-value = 0.415
+*** BH test statistic value = 5.7527
+*** Selected most discrepant range = 4878 - 6285
+******************************************
+Process ran in 49.89 seconds. 
+Mass: 5000GeV, NEvents: 1800
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 5.68433
+Low edge, high edge of bump: 4878 6285
+Absolute values of LogL: 507.891
+Absolute values of Chi2: 45.5453
+Absolute values of BumpHUnter: 5.68433
+Pval of logL: 0.539
+Pval of chi2: 0.494
+Pval of bumpHunter are: 0.436
+BumpHunter results: stat = 5.68433
+******************************************
+*** Final values 
+*** BH p-value = 0.436
+*** BH test statistic value = 5.68433
+*** Selected most discrepant range = 4878 - 6285
+******************************************
+Process ran in 52.51 seconds. 
+Mass: 5000GeV, NEvents: 1900
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 6.0442
+Low edge, high edge of bump: 4878 6285
+Absolute values of LogL: 509.384
+Absolute values of Chi2: 47.0304
+Absolute values of BumpHUnter: 6.0442
+Pval of logL: 0.449
+Pval of chi2: 0.396
+Pval of bumpHunter are: 0.354
+BumpHunter results: stat = 6.0442
+******************************************
+*** Final values 
+*** BH p-value = 0.354
+*** BH test statistic value = 6.0442
+*** Selected most discrepant range = 4878 - 6285
+******************************************
+Process ran in 52.74 seconds. 
+Mass: 5000GeV, NEvents: 2000
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 6.29221
+Low edge, high edge of bump: 4878 6285
+Absolute values of LogL: 510.601
+Absolute values of Chi2: 48.1149
+Absolute values of BumpHUnter: 6.29221
+Pval of logL: 0.366
+Pval of chi2: 0.325
+Pval of bumpHunter are: 0.297
+BumpHunter results: stat = 6.29221
+******************************************
+*** Final values 
+*** BH p-value = 0.297
+*** BH test statistic value = 6.29221
+*** Selected most discrepant range = 4878 - 6285
+******************************************
+Process ran in 51.8 seconds. 
+Mass: 5000GeV, NEvents: 650
+Gaus_5000GeV_650events doesn't exist.
+Mass: 5000GeV, NEvents: 700
+Gaus_5000GeV_700events doesn't exist.
+Mass: 5000GeV, NEvents: 750
+Gaus_5000GeV_750events doesn't exist.
+Mass: 5000GeV, NEvents: 800
+Gaus_5000GeV_800events doesn't exist.
+Mass: 5000GeV, NEvents: 850
+Gaus_5000GeV_850events doesn't exist.
+Mass: 5000GeV, NEvents: 220
+Gaus_5000GeV_220events doesn't exist.
+Mass: 5000GeV, NEvents: 240
+Gaus_5000GeV_240events doesn't exist.
+Mass: 5000GeV, NEvents: 260
+Gaus_5000GeV_260events doesn't exist.
+Mass: 5000GeV, NEvents: 280
+Gaus_5000GeV_280events doesn't exist.
+Mass: 5000GeV, NEvents: 300
+Gaus_5000GeV_300events doesn't exist.
+Mass: 5000GeV, NEvents: 320
+Gaus_5000GeV_320events doesn't exist.
+Mass: 5000GeV, NEvents: 120
+Gaus_5000GeV_120events doesn't exist.
+Mass: 5000GeV, NEvents: 140
+Gaus_5000GeV_140events doesn't exist.
+Mass: 5000GeV, NEvents: 160
+Gaus_5000GeV_160events doesn't exist.
+Mass: 5000GeV, NEvents: 180
+Gaus_5000GeV_180events doesn't exist.
+Mass: 5000GeV, NEvents: 200
+Gaus_5000GeV_200events doesn't exist.
+Mass: 5000GeV, NEvents: 50
+Gaus_5000GeV_50events doesn't exist.
+Mass: 5000GeV, NEvents: 60
+Gaus_5000GeV_60events doesn't exist.
+Mass: 5000GeV, NEvents: 70
+Gaus_5000GeV_70events doesn't exist.
+Mass: 5000GeV, NEvents: 80
+Gaus_5000GeV_80events doesn't exist.
+Mass: 5000GeV, NEvents: 90
+Gaus_5000GeV_90events doesn't exist.
+Mass: 5000GeV, NEvents: 100
+Gaus_5000GeV_100events doesn't exist.
+Mass: 5500GeV, NEvents: 9500
+Gaus_5500GeV_9500events doesn't exist.
+Mass: 5500GeV, NEvents: 9000
+Gaus_5500GeV_9000events doesn't exist.
+Mass: 5500GeV, NEvents: 8500
+Gaus_5500GeV_8500events doesn't exist.
+Mass: 5500GeV, NEvents: 8000
+Gaus_5500GeV_8000events doesn't exist.
+Mass: 5500GeV, NEvents: 7500
+Gaus_5500GeV_7500events doesn't exist.
+Mass: 5500GeV, NEvents: 7000
+Gaus_5500GeV_7000events doesn't exist.
+Mass: 5500GeV, NEvents: 3000
+Gaus_5500GeV_3000events doesn't exist.
+Mass: 5500GeV, NEvents: 3200
+Gaus_5500GeV_3200events doesn't exist.
+Mass: 5500GeV, NEvents: 3400
+Gaus_5500GeV_3400events doesn't exist.
+Mass: 5500GeV, NEvents: 3600
+Gaus_5500GeV_3600events doesn't exist.
+Mass: 5500GeV, NEvents: 3800
+Gaus_5500GeV_3800events doesn't exist.
+Mass: 5500GeV, NEvents: 4000
+Gaus_5500GeV_4000events doesn't exist.
+Mass: 5500GeV, NEvents: 1900
+Gaus_5500GeV_1900events doesn't exist.
+Mass: 5500GeV, NEvents: 2100
+Gaus_5500GeV_2100events doesn't exist.
+Mass: 5500GeV, NEvents: 2300
+Gaus_5500GeV_2300events doesn't exist.
+Mass: 5500GeV, NEvents: 2500
+Gaus_5500GeV_2500events doesn't exist.
+Mass: 5500GeV, NEvents: 2700
+Gaus_5500GeV_2700events doesn't exist.
+Mass: 5500GeV, NEvents: 1500
+Gaus_5500GeV_1500events doesn't exist.
+Mass: 5500GeV, NEvents: 1600
+Gaus_5500GeV_1600events doesn't exist.
+Mass: 5500GeV, NEvents: 1700
+Gaus_5500GeV_1700events doesn't exist.
+Mass: 5500GeV, NEvents: 1800
+Gaus_5500GeV_1800events doesn't exist.
+Mass: 5500GeV, NEvents: 1900
+Gaus_5500GeV_1900events doesn't exist.
+Mass: 5500GeV, NEvents: 2000
+Gaus_5500GeV_2000events doesn't exist.
+Mass: 5500GeV, NEvents: 650
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 5.31627
+Low edge, high edge of bump: 5931 6285
+Absolute values of LogL: 500.747
+Absolute values of Chi2: 38.2089
+Absolute values of BumpHUnter: 5.31627
+Pval of logL: 0.855
+Pval of chi2: 0.855
+Pval of bumpHunter are: 0.516
+BumpHunter results: stat = 5.31627
+******************************************
+*** Final values 
+*** BH p-value = 0.516
+*** BH test statistic value = 5.31627
+*** Selected most discrepant range = 5931 - 6285
+******************************************
+Process ran in 53.12 seconds. 
+Mass: 5500GeV, NEvents: 700
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 5.40505
+Low edge, high edge of bump: 5705 6285
+Absolute values of LogL: 505.337
+Absolute values of Chi2: 39.6451
+Absolute values of BumpHUnter: 5.40505
+Pval of logL: 0.84
+Pval of chi2: 0.824
+Pval of bumpHunter are: 0.494
+BumpHunter results: stat = 5.40505
+******************************************
+*** Final values 
+*** BH p-value = 0.494
+*** BH test statistic value = 5.40505
+*** Selected most discrepant range = 5705 - 6285
+******************************************
+Process ran in 54.13 seconds. 
+Mass: 5500GeV, NEvents: 750
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 5.78933
+Low edge, high edge of bump: 5705 6285
+Absolute values of LogL: 506.823
+Absolute values of Chi2: 41.4967
+Absolute values of BumpHUnter: 5.78933
+Pval of logL: 0.748
+Pval of chi2: 0.706
+Pval of bumpHunter are: 0.413
+BumpHunter results: stat = 5.78933
+******************************************
+*** Final values 
+*** BH p-value = 0.413
+*** BH test statistic value = 5.78933
+*** Selected most discrepant range = 5705 - 6285
+******************************************
+Process ran in 55.78 seconds. 
+Mass: 5500GeV, NEvents: 800
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 5.91035
+Low edge, high edge of bump: 5705 6407
+Absolute values of LogL: 507.474
+Absolute values of Chi2: 43.1948
+Absolute values of BumpHUnter: 5.91035
+Pval of logL: 0.717
+Pval of chi2: 0.631
+Pval of bumpHunter are: 0.392
+BumpHunter results: stat = 5.91035
+******************************************
+*** Final values 
+*** BH p-value = 0.392
+*** BH test statistic value = 5.91035
+*** Selected most discrepant range = 5705 - 6407
+******************************************
+Process ran in 57.14 seconds. 
+Mass: 5500GeV, NEvents: 850
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 6.12931
+Low edge, high edge of bump: 5817 6658
+Absolute values of LogL: 509.091
+Absolute values of Chi2: 40.812
+Absolute values of BumpHUnter: 6.12931
+Pval of logL: 0.759
+Pval of chi2: 0.776
+Pval of bumpHunter are: 0.325
+BumpHunter results: stat = 6.12931
+******************************************
+*** Final values 
+*** BH p-value = 0.325
+*** BH test statistic value = 6.12931
+*** Selected most discrepant range = 5817 - 6658
+******************************************
+Process ran in 55.46 seconds. 
+Mass: 5500GeV, NEvents: 220
+Gaus_5500GeV_220events doesn't exist.
+Mass: 5500GeV, NEvents: 240
+Gaus_5500GeV_240events doesn't exist.
+Mass: 5500GeV, NEvents: 260
+Gaus_5500GeV_260events doesn't exist.
+Mass: 5500GeV, NEvents: 280
+Gaus_5500GeV_280events doesn't exist.
+Mass: 5500GeV, NEvents: 300
+Gaus_5500GeV_300events doesn't exist.
+Mass: 5500GeV, NEvents: 320
+Gaus_5500GeV_320events doesn't exist.
+Mass: 5500GeV, NEvents: 120
+Gaus_5500GeV_120events doesn't exist.
+Mass: 5500GeV, NEvents: 140
+Gaus_5500GeV_140events doesn't exist.
+Mass: 5500GeV, NEvents: 160
+Gaus_5500GeV_160events doesn't exist.
+Mass: 5500GeV, NEvents: 180
+Gaus_5500GeV_180events doesn't exist.
+Mass: 5500GeV, NEvents: 200
+Gaus_5500GeV_200events doesn't exist.
+Mass: 5500GeV, NEvents: 50
+Gaus_5500GeV_50events doesn't exist.
+Mass: 5500GeV, NEvents: 60
+Gaus_5500GeV_60events doesn't exist.
+Mass: 5500GeV, NEvents: 70
+Gaus_5500GeV_70events doesn't exist.
+Mass: 5500GeV, NEvents: 80
+Gaus_5500GeV_80events doesn't exist.
+Mass: 5500GeV, NEvents: 90
+Gaus_5500GeV_90events doesn't exist.
+Mass: 5500GeV, NEvents: 100
+Gaus_5500GeV_100events doesn't exist.
+Mass: 6000GeV, NEvents: 9500
+Gaus_6000GeV_9500events doesn't exist.
+Mass: 6000GeV, NEvents: 9000
+Gaus_6000GeV_9000events doesn't exist.
+Mass: 6000GeV, NEvents: 8500
+Gaus_6000GeV_8500events doesn't exist.
+Mass: 6000GeV, NEvents: 8000
+Gaus_6000GeV_8000events doesn't exist.
+Mass: 6000GeV, NEvents: 7500
+Gaus_6000GeV_7500events doesn't exist.
+Mass: 6000GeV, NEvents: 7000
+Gaus_6000GeV_7000events doesn't exist.
+Mass: 6000GeV, NEvents: 3000
+Gaus_6000GeV_3000events doesn't exist.
+Mass: 6000GeV, NEvents: 3200
+Gaus_6000GeV_3200events doesn't exist.
+Mass: 6000GeV, NEvents: 3400
+Gaus_6000GeV_3400events doesn't exist.
+Mass: 6000GeV, NEvents: 3600
+Gaus_6000GeV_3600events doesn't exist.
+Mass: 6000GeV, NEvents: 3800
+Gaus_6000GeV_3800events doesn't exist.
+Mass: 6000GeV, NEvents: 4000
+Gaus_6000GeV_4000events doesn't exist.
+Mass: 6000GeV, NEvents: 1900
+Gaus_6000GeV_1900events doesn't exist.
+Mass: 6000GeV, NEvents: 2100
+Gaus_6000GeV_2100events doesn't exist.
+Mass: 6000GeV, NEvents: 2300
+Gaus_6000GeV_2300events doesn't exist.
+Mass: 6000GeV, NEvents: 2500
+Gaus_6000GeV_2500events doesn't exist.
+Mass: 6000GeV, NEvents: 2700
+Gaus_6000GeV_2700events doesn't exist.
+Mass: 6000GeV, NEvents: 1500
+Gaus_6000GeV_1500events doesn't exist.
+Mass: 6000GeV, NEvents: 1600
+Gaus_6000GeV_1600events doesn't exist.
+Mass: 6000GeV, NEvents: 1700
+Gaus_6000GeV_1700events doesn't exist.
+Mass: 6000GeV, NEvents: 1800
+Gaus_6000GeV_1800events doesn't exist.
+Mass: 6000GeV, NEvents: 1900
+Gaus_6000GeV_1900events doesn't exist.
+Mass: 6000GeV, NEvents: 2000
+Gaus_6000GeV_2000events doesn't exist.
+Mass: 6000GeV, NEvents: 650
+Gaus_6000GeV_650events doesn't exist.
+Mass: 6000GeV, NEvents: 700
+Gaus_6000GeV_700events doesn't exist.
+Mass: 6000GeV, NEvents: 750
+Gaus_6000GeV_750events doesn't exist.
+Mass: 6000GeV, NEvents: 800
+Gaus_6000GeV_800events doesn't exist.
+Mass: 6000GeV, NEvents: 850
+Gaus_6000GeV_850events doesn't exist.
+Mass: 6000GeV, NEvents: 220
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 3.9865
+Low edge, high edge of bump: 4070 4239
+Absolute values of LogL: 502.108
+Absolute values of Chi2: 41.1891
+Absolute values of BumpHUnter: 3.9865
+Pval of logL: 0.82
+Pval of chi2: 0.728
+Pval of bumpHunter are: 0.88
+BumpHunter results: stat = 3.9865
+******************************************
+*** Final values 
+*** BH p-value = 0.88
+*** BH test statistic value = 3.9865
+*** Selected most discrepant range = 4070 - 4239
+******************************************
+Process ran in 55.38 seconds. 
+Mass: 6000GeV, NEvents: 240
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 3.965
+Low edge, high edge of bump: 4070 4239
+Absolute values of LogL: 502.32
+Absolute values of Chi2: 37.2669
+Absolute values of BumpHUnter: 3.965
+Pval of logL: 0.907
+Pval of chi2: 0.903
+Pval of bumpHunter are: 0.898
+BumpHunter results: stat = 3.965
+******************************************
+*** Final values 
+*** BH p-value = 0.898
+*** BH test statistic value = 3.965
+*** Selected most discrepant range = 4070 - 4239
+******************************************
+Process ran in 58.57 seconds. 
+Mass: 6000GeV, NEvents: 260
+Will bump hunt the spectrum in bins [42 - 132]
+	corresponding to a range [1100 - 8208]
+BumpHunter results: stat = 3.99586
+Low edge, high edge of bump: 4070 4239
+Absolute values of LogL: 499.361
+Absolute values of Chi2: 36.5107
+Absolute values of BumpHUnter: 3.99586
+Pval of logL: 0.908
+Pval of chi2: 0.92
+Pval of bumpHunter are: 0.874
+BumpHunter results: stat = 3.99586
+******************************************
+*** Final values 
+*** BH p-value = 0.874
+*** BH test statistic value = 3.99586
+*** Selected most discrepant range = 4070 - 4239
+******************************************
+Process ran in 57.92 seconds. 
+Mass: 6000GeV, NEvents: 280
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 4.00541
+Low edge, high edge of bump: 4070 4239
+Absolute values of LogL: 500.26
+Absolute values of Chi2: 37.1067
+Absolute values of BumpHUnter: 4.00541
+Pval of logL: 0.908
+Pval of chi2: 0.896
+Pval of bumpHunter are: 0.878
+BumpHunter results: stat = 4.00541
+******************************************
+*** Final values 
+*** BH p-value = 0.878
+*** BH test statistic value = 4.00541
+*** Selected most discrepant range = 4070 - 4239
+******************************************
+Process ran in 58.5 seconds. 
+Mass: 6000GeV, NEvents: 300
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 3.95996
+Low edge, high edge of bump: 4070 4239
+Absolute values of LogL: 503.652
+Absolute values of Chi2: 37.4995
+Absolute values of BumpHUnter: 3.95996
+Pval of logL: 0.909
+Pval of chi2: 0.913
+Pval of bumpHunter are: 0.891
+BumpHunter results: stat = 3.95996
+******************************************
+*** Final values 
+*** BH p-value = 0.891
+*** BH test statistic value = 3.95996
+*** Selected most discrepant range = 4070 - 4239
+******************************************
+Process ran in 58.82 seconds. 
+Mass: 6000GeV, NEvents: 320
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 3.95928
+Low edge, high edge of bump: 4070 4239
+Absolute values of LogL: 505.691
+Absolute values of Chi2: 40.0506
+Absolute values of BumpHUnter: 3.95928
+Pval of logL: 0.777
+Pval of chi2: 0.795
+Pval of bumpHunter are: 0.893
+BumpHunter results: stat = 3.95928
+******************************************
+*** Final values 
+*** BH p-value = 0.893
+*** BH test statistic value = 3.95928
+*** Selected most discrepant range = 4070 - 4239
+******************************************
+Process ran in 58.95 seconds. 
+Mass: 6000GeV, NEvents: 120
+Gaus_6000GeV_120events doesn't exist.
+Mass: 6000GeV, NEvents: 140
+Gaus_6000GeV_140events doesn't exist.
+Mass: 6000GeV, NEvents: 160
+Gaus_6000GeV_160events doesn't exist.
+Mass: 6000GeV, NEvents: 180
+Gaus_6000GeV_180events doesn't exist.
+Mass: 6000GeV, NEvents: 200
+Gaus_6000GeV_200events doesn't exist.
+Mass: 6000GeV, NEvents: 50
+Gaus_6000GeV_50events doesn't exist.
+Mass: 6000GeV, NEvents: 60
+Gaus_6000GeV_60events doesn't exist.
+Mass: 6000GeV, NEvents: 70
+Gaus_6000GeV_70events doesn't exist.
+Mass: 6000GeV, NEvents: 80
+Gaus_6000GeV_80events doesn't exist.
+Mass: 6000GeV, NEvents: 90
+Gaus_6000GeV_90events doesn't exist.
+Mass: 6000GeV, NEvents: 100
+Gaus_6000GeV_100events doesn't exist.
+Mass: 6500GeV, NEvents: 9500
+Gaus_6500GeV_9500events doesn't exist.
+Mass: 6500GeV, NEvents: 9000
+Gaus_6500GeV_9000events doesn't exist.
+Mass: 6500GeV, NEvents: 8500
+Gaus_6500GeV_8500events doesn't exist.
+Mass: 6500GeV, NEvents: 8000
+Gaus_6500GeV_8000events doesn't exist.
+Mass: 6500GeV, NEvents: 7500
+Gaus_6500GeV_7500events doesn't exist.
+Mass: 6500GeV, NEvents: 7000
+Gaus_6500GeV_7000events doesn't exist.
+Mass: 6500GeV, NEvents: 3000
+Gaus_6500GeV_3000events doesn't exist.
+Mass: 6500GeV, NEvents: 3200
+Gaus_6500GeV_3200events doesn't exist.
+Mass: 6500GeV, NEvents: 3400
+Gaus_6500GeV_3400events doesn't exist.
+Mass: 6500GeV, NEvents: 3600
+Gaus_6500GeV_3600events doesn't exist.
+Mass: 6500GeV, NEvents: 3800
+Gaus_6500GeV_3800events doesn't exist.
+Mass: 6500GeV, NEvents: 4000
+Gaus_6500GeV_4000events doesn't exist.
+Mass: 6500GeV, NEvents: 1900
+Gaus_6500GeV_1900events doesn't exist.
+Mass: 6500GeV, NEvents: 2100
+Gaus_6500GeV_2100events doesn't exist.
+Mass: 6500GeV, NEvents: 2300
+Gaus_6500GeV_2300events doesn't exist.
+Mass: 6500GeV, NEvents: 2500
+Gaus_6500GeV_2500events doesn't exist.
+Mass: 6500GeV, NEvents: 2700
+Gaus_6500GeV_2700events doesn't exist.
+Mass: 6500GeV, NEvents: 1500
+Gaus_6500GeV_1500events doesn't exist.
+Mass: 6500GeV, NEvents: 1600
+Gaus_6500GeV_1600events doesn't exist.
+Mass: 6500GeV, NEvents: 1700
+Gaus_6500GeV_1700events doesn't exist.
+Mass: 6500GeV, NEvents: 1800
+Gaus_6500GeV_1800events doesn't exist.
+Mass: 6500GeV, NEvents: 1900
+Gaus_6500GeV_1900events doesn't exist.
+Mass: 6500GeV, NEvents: 2000
+Gaus_6500GeV_2000events doesn't exist.
+Mass: 6500GeV, NEvents: 650
+Gaus_6500GeV_650events doesn't exist.
+Mass: 6500GeV, NEvents: 700
+Gaus_6500GeV_700events doesn't exist.
+Mass: 6500GeV, NEvents: 750
+Gaus_6500GeV_750events doesn't exist.
+Mass: 6500GeV, NEvents: 800
+Gaus_6500GeV_800events doesn't exist.
+Mass: 6500GeV, NEvents: 850
+Gaus_6500GeV_850events doesn't exist.
+Mass: 6500GeV, NEvents: 220
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 4.65066
+Low edge, high edge of bump: 6918 7610
+Absolute values of LogL: 510.524
+Absolute values of Chi2: 42.5343
+Absolute values of BumpHUnter: 4.65066
+Pval of logL: 0.658
+Pval of chi2: 0.698
+Pval of bumpHunter are: 0.712
+BumpHunter results: stat = 4.65066
+******************************************
+*** Final values 
+*** BH p-value = 0.712
+*** BH test statistic value = 4.65066
+*** Selected most discrepant range = 6918 - 7610
+******************************************
+Process ran in 58.32 seconds. 
+Mass: 6500GeV, NEvents: 240
+Gaus_6500GeV_240events doesn't exist.
+Mass: 6500GeV, NEvents: 260
+Gaus_6500GeV_260events doesn't exist.
+Mass: 6500GeV, NEvents: 280
+Gaus_6500GeV_280events doesn't exist.
+Mass: 6500GeV, NEvents: 300
+Gaus_6500GeV_300events doesn't exist.
+Mass: 6500GeV, NEvents: 320
+Gaus_6500GeV_320events doesn't exist.
+Mass: 6500GeV, NEvents: 120
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 4.17184
+Low edge, high edge of bump: 6918 7326
+Absolute values of LogL: 505.296
+Absolute values of Chi2: 40.1499
+Absolute values of BumpHUnter: 4.17184
+Pval of logL: 0.801
+Pval of chi2: 0.829
+Pval of bumpHunter are: 0.859
+BumpHunter results: stat = 4.17184
+******************************************
+*** Final values 
+*** BH p-value = 0.859
+*** BH test statistic value = 4.17184
+*** Selected most discrepant range = 6918 - 7326
+******************************************
+Process ran in 58.22 seconds. 
+Mass: 6500GeV, NEvents: 140
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 4.04411
+Low edge, high edge of bump: 4070 4239
+Absolute values of LogL: 500.383
+Absolute values of Chi2: 37.5125
+Absolute values of BumpHUnter: 4.04411
+Pval of logL: 0.923
+Pval of chi2: 0.912
+Pval of bumpHunter are: 0.892
+BumpHunter results: stat = 4.04411
+******************************************
+*** Final values 
+*** BH p-value = 0.892
+*** BH test statistic value = 4.04411
+*** Selected most discrepant range = 4070 - 4239
+******************************************
+Process ran in 58.59 seconds. 
+Mass: 6500GeV, NEvents: 160
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 4.08232
+Low edge, high edge of bump: 4070 4239
+Absolute values of LogL: 506.682
+Absolute values of Chi2: 42.3031
+Absolute values of BumpHUnter: 4.08232
+Pval of logL: 0.756
+Pval of chi2: 0.713
+Pval of bumpHunter are: 0.881
+BumpHunter results: stat = 4.08232
+******************************************
+*** Final values 
+*** BH p-value = 0.881
+*** BH test statistic value = 4.08232
+*** Selected most discrepant range = 4070 - 4239
+******************************************
+Process ran in 58.05 seconds. 
+Mass: 6500GeV, NEvents: 180
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 4.50692
+Low edge, high edge of bump: 7052 7326
+Absolute values of LogL: 505.065
+Absolute values of Chi2: 40.1798
+Absolute values of BumpHUnter: 4.50692
+Pval of logL: 0.847
+Pval of chi2: 0.807
+Pval of bumpHunter are: 0.77
+BumpHunter results: stat = 4.50692
+******************************************
+*** Final values 
+*** BH p-value = 0.77
+*** BH test statistic value = 4.50692
+*** Selected most discrepant range = 7052 - 7326
+******************************************
+Process ran in 58.58 seconds. 
+Mass: 6500GeV, NEvents: 200
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 4.15594
+Low edge, high edge of bump: 6918 7756
+Absolute values of LogL: 508.14
+Absolute values of Chi2: 43.4368
+Absolute values of BumpHUnter: 4.15594
+Pval of logL: 0.712
+Pval of chi2: 0.638
+Pval of bumpHunter are: 0.835
+BumpHunter results: stat = 4.15594
+******************************************
+*** Final values 
+*** BH p-value = 0.835
+*** BH test statistic value = 4.15594
+*** Selected most discrepant range = 6918 - 7756
+******************************************
+Process ran in 58.01 seconds. 
+Mass: 6500GeV, NEvents: 50
+Gaus_6500GeV_50events doesn't exist.
+Mass: 6500GeV, NEvents: 60
+Gaus_6500GeV_60events doesn't exist.
+Mass: 6500GeV, NEvents: 70
+Gaus_6500GeV_70events doesn't exist.
+Mass: 6500GeV, NEvents: 80
+Gaus_6500GeV_80events doesn't exist.
+Mass: 6500GeV, NEvents: 90
+Gaus_6500GeV_90events doesn't exist.
+Mass: 6500GeV, NEvents: 100
+Gaus_6500GeV_100events doesn't exist.
+Mass: 7000GeV, NEvents: 9500
+Gaus_7000GeV_9500events doesn't exist.
+Mass: 7000GeV, NEvents: 9000
+Gaus_7000GeV_9000events doesn't exist.
+Mass: 7000GeV, NEvents: 8500
+Gaus_7000GeV_8500events doesn't exist.
+Mass: 7000GeV, NEvents: 8000
+Gaus_7000GeV_8000events doesn't exist.
+Mass: 7000GeV, NEvents: 7500
+Gaus_7000GeV_7500events doesn't exist.
+Mass: 7000GeV, NEvents: 7000
+Gaus_7000GeV_7000events doesn't exist.
+Mass: 7000GeV, NEvents: 3000
+Gaus_7000GeV_3000events doesn't exist.
+Mass: 7000GeV, NEvents: 3200
+Gaus_7000GeV_3200events doesn't exist.
+Mass: 7000GeV, NEvents: 3400
+Gaus_7000GeV_3400events doesn't exist.
+Mass: 7000GeV, NEvents: 3600
+Gaus_7000GeV_3600events doesn't exist.
+Mass: 7000GeV, NEvents: 3800
+Gaus_7000GeV_3800events doesn't exist.
+Mass: 7000GeV, NEvents: 4000
+Gaus_7000GeV_4000events doesn't exist.
+Mass: 7000GeV, NEvents: 1900
+Gaus_7000GeV_1900events doesn't exist.
+Mass: 7000GeV, NEvents: 2100
+Gaus_7000GeV_2100events doesn't exist.
+Mass: 7000GeV, NEvents: 2300
+Gaus_7000GeV_2300events doesn't exist.
+Mass: 7000GeV, NEvents: 2500
+Gaus_7000GeV_2500events doesn't exist.
+Mass: 7000GeV, NEvents: 2700
+Gaus_7000GeV_2700events doesn't exist.
+Mass: 7000GeV, NEvents: 1500
+Gaus_7000GeV_1500events doesn't exist.
+Mass: 7000GeV, NEvents: 1600
+Gaus_7000GeV_1600events doesn't exist.
+Mass: 7000GeV, NEvents: 1700
+Gaus_7000GeV_1700events doesn't exist.
+Mass: 7000GeV, NEvents: 1800
+Gaus_7000GeV_1800events doesn't exist.
+Mass: 7000GeV, NEvents: 1900
+Gaus_7000GeV_1900events doesn't exist.
+Mass: 7000GeV, NEvents: 2000
+Gaus_7000GeV_2000events doesn't exist.
+Mass: 7000GeV, NEvents: 650
+Gaus_7000GeV_650events doesn't exist.
+Mass: 7000GeV, NEvents: 700
+Gaus_7000GeV_700events doesn't exist.
+Mass: 7000GeV, NEvents: 750
+Gaus_7000GeV_750events doesn't exist.
+Mass: 7000GeV, NEvents: 800
+Gaus_7000GeV_800events doesn't exist.
+Mass: 7000GeV, NEvents: 850
+Gaus_7000GeV_850events doesn't exist.
+Mass: 7000GeV, NEvents: 220
+Gaus_7000GeV_220events doesn't exist.
+Mass: 7000GeV, NEvents: 240
+Gaus_7000GeV_240events doesn't exist.
+Mass: 7000GeV, NEvents: 260
+Gaus_7000GeV_260events doesn't exist.
+Mass: 7000GeV, NEvents: 280
+Gaus_7000GeV_280events doesn't exist.
+Mass: 7000GeV, NEvents: 300
+Gaus_7000GeV_300events doesn't exist.
+Mass: 7000GeV, NEvents: 320
+Gaus_7000GeV_320events doesn't exist.
+Mass: 7000GeV, NEvents: 120
+Gaus_7000GeV_120events doesn't exist.
+Mass: 7000GeV, NEvents: 140
+Gaus_7000GeV_140events doesn't exist.
+Mass: 7000GeV, NEvents: 160
+Gaus_7000GeV_160events doesn't exist.
+Mass: 7000GeV, NEvents: 180
+Gaus_7000GeV_180events doesn't exist.
+Mass: 7000GeV, NEvents: 200
+Gaus_7000GeV_200events doesn't exist.
+Mass: 7000GeV, NEvents: 50
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 4.60532
+Low edge, high edge of bump: 7052 7326
+Absolute values of LogL: 500.101
+Absolute values of Chi2: 39.6724
+Absolute values of BumpHUnter: 4.60532
+Pval of logL: 0.888
+Pval of chi2: 0.84
+Pval of bumpHunter are: 0.723
+BumpHunter results: stat = 4.60532
+******************************************
+*** Final values 
+*** BH p-value = 0.723
+*** BH test statistic value = 4.60532
+*** Selected most discrepant range = 7052 - 7326
+******************************************
+Process ran in 59.86 seconds. 
+Mass: 7000GeV, NEvents: 60
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 3.92007
+Low edge, high edge of bump: 4070 4239
+Absolute values of LogL: 497.977
+Absolute values of Chi2: 35.246
+Absolute values of BumpHUnter: 3.92007
+Pval of logL: 0.96
+Pval of chi2: 0.958
+Pval of bumpHunter are: 0.88
+BumpHunter results: stat = 3.92007
+******************************************
+*** Final values 
+*** BH p-value = 0.88
+*** BH test statistic value = 3.92007
+*** Selected most discrepant range = 4070 - 4239
+******************************************
+Process ran in 58.29 seconds. 
+Mass: 7000GeV, NEvents: 70
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 3.91444
+Low edge, high edge of bump: 4070 4239
+Absolute values of LogL: 500.687
+Absolute values of Chi2: 37.3279
+Absolute values of BumpHUnter: 3.91444
+Pval of logL: 0.923
+Pval of chi2: 0.916
+Pval of bumpHunter are: 0.895
+BumpHunter results: stat = 3.91444
+******************************************
+*** Final values 
+*** BH p-value = 0.895
+*** BH test statistic value = 3.91444
+*** Selected most discrepant range = 4070 - 4239
+******************************************
+Process ran in 60.85 seconds. 
+Mass: 7000GeV, NEvents: 80
+Will bump hunt the spectrum in bins [42 - 133]
+	corresponding to a range [1100 - 8364]
+BumpHunter results: stat = 4.20742
+Low edge, high edge of bump: 7756 8055
+Absolute values of LogL: 502.084
+Absolute values of Chi2: 40.9646
+Absolute values of BumpHUnter: 4.20742
+Pval of logL: 0.791
+Pval of chi2: 0.743
+Pval of bumpHunter are: 0.823
+BumpHunter results: stat = 4.20742
+******************************************
+*** Final values 
+*** BH p-value = 0.823
+*** BH test statistic value = 4.20742
+*** Selected most discrepant range = 7756 - 8055
+******************************************
+Process ran in 54.68 seconds. 
+Mass: 7000GeV, NEvents: 90
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 3.9373
+Low edge, high edge of bump: 7756 8055
+Absolute values of LogL: 502.424
+Absolute values of Chi2: 38.9276
+Absolute values of BumpHUnter: 3.9373
+Pval of logL: 0.88
+Pval of chi2: 0.872
+Pval of bumpHunter are: 0.886
+BumpHunter results: stat = 3.9373
+******************************************
+*** Final values 
+*** BH p-value = 0.886
+*** BH test statistic value = 3.9373
+*** Selected most discrepant range = 7756 - 8055
+******************************************
+Process ran in 54.05 seconds. 
+Mass: 7000GeV, NEvents: 100
+Will bump hunt the spectrum in bins [42 - 134]
+	corresponding to a range [1100 - 8523]
+BumpHunter results: stat = 4.98803
+Low edge, high edge of bump: 6787 7756
+Absolute values of LogL: 503.583
+Absolute values of Chi2: 40.7255
+Absolute values of BumpHUnter: 4.98803
+Pval of logL: 0.841
+Pval of chi2: 0.807
+Pval of bumpHunter are: 0.625
+BumpHunter results: stat = 4.98803
+******************************************
+*** Final values 
+*** BH p-value = 0.625
+*** BH test statistic value = 4.98803
+*** Selected most discrepant range = 6787 - 7756
+******************************************
+Process ran in 58.71 seconds. 
